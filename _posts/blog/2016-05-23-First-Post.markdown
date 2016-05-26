@@ -1,7 +1,7 @@
 ---
 layout: post          
 title: "First Post"
-date: 2016-05-25 17:54:88 
+date: 2014-05-25 17:54:88
 author: Steven
 categories:
 - blog               
@@ -10,6 +10,6 @@ categories:
 img: post01.jpg       
 thumb: thumb01.jpg    
 ---
-Click to see more!
+Click to see more, test!
 <!--more-->
 Well sir, you've just been played...
