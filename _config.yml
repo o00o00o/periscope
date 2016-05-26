@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: STEVEN LUO
+description: "Take a look through the periscope into Steven (Si Wei) Luo's life. Can you feel the passion? Do you see what I see?"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/periscope" #important: start with /
 url: "http://o00o00o.github.io"
@@ -26,25 +26,23 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
+  - title: Linkedin
+    url: https://www.linkedin.com/in/swluo
+  - title: Facebook
+    url: facebook.com/steven.luo.39
+  - title: Github
+    url: https://github.com/o00o00o
   - title: instagram
-    url:
+    url: https://www.instagram.com/luo.steven
   - title: tumblr
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Vanvouer || Waterloo
+email: swluo@uwaterloo.ca
+tel: 519-729-8764
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
