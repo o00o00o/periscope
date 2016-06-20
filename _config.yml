@@ -26,16 +26,16 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: Linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/swluo
-  - title: Facebook
-    url: facebook.com/steven.luo.39
-  - title: Github
+  - title: github
     url: https://github.com/o00o00o
+  - title: facebook
+    url: facebook.com/steven.luo.39
   - title: instagram
     url: https://www.instagram.com/luo.steven
-  - title: tumblr
-    url:
+  - title: snapchat
+    url: https://www.google.com
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
