@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: STEVEN LUO
+title: Steven Luo
 description: "Take a look through the periscope into Steven (Si Wei) Luo's life. Can you feel the passion? Do you see what I see?"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/periscope" #important: start with /
@@ -26,15 +26,17 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: linkedin
+  - title: linkedin-square
     url: https://www.linkedin.com/in/swluo
-  - title: github
+  - title: github-square
     url: https://github.com/o00o00o
-  - title: facebook
-    url: facebook.com/steven.luo.39
+  - title: facebook-square
+    url: https://www.facebook.com/steven.luo.39
   - title: instagram
     url: https://www.instagram.com/luo.steven
-  - title: snapchat
+  - title: google-plus-square
+    url: https://www.google.com
+  - title: snapchat-square
     url: https://www.google.com
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
