@@ -4,7 +4,7 @@
             <div class="col-lg-4">
                 <h4>About</h4>
                 <div class="hline-w"></div>
-                <p>{{ site.about }}</p>
+                <p>My name is steven and i love love love to play ping pong. It is amazing how much i love it like crazy. It is soo fun and i hope to get better everyday.</p>
             </div>
             <div class="col-lg-4">
                 <h4>Social Links</h4>
@@ -16,11 +16,11 @@
                 </p>
             </div>
             <div class="col-lg-4">
-                <h4>Mom's Basement</h4>
+                <h4>Latest Posts</h4>
                 <div class="hline-w"></div>
                 <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
+                    {% for post in site.categories['blog'] limit:3 %}
+                        <a class="a-footer" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a><br/>
                     {% endfor %}
                 </p>
             </div>
