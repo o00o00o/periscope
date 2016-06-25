@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <h4>About</h4>
+                <h4>This Site</h4>
                 <div class="hline-w"></div>
-                <p>My name is steven and i love love love to play ping pong. It is amazing how much i love it like crazy. It is soo fun and i hope to get better everyday.</p>
+                <p>This website is a heavly modified Jekyll port of the "Solid" theme hosted using GitHub Pages. I would love to thank <a href="http://www.alvarez.is/index.html" class="a-footer">Carlos</a> from <a href="http://www.blacktie.co" class="a-footer">Blacktie.co</a> for creating this theme, I loved the way the code is organzied and commented.</p>
             </div>
             <div class="col-lg-4">
                 <h4>Social Links</h4>
@@ -19,7 +19,7 @@
                 <h4>Latest Posts</h4>
                 <div class="hline-w"></div>
                 <p>
-                    {% for post in site.categories['blog'] limit:3 %}
+                    {% for post in site.categories['blog'] limit:4s %}
                         <a class="a-footer" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a><br/>
                     {% endfor %}
                 </p>
