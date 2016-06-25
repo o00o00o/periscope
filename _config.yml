@@ -35,9 +35,9 @@ social:
   - title: instagram
     url: https://www.instagram.com/luo.steven
   - title: google-plus-square
-    url: https://www.google.com
-  - title: snapchat-square
-    url: https://www.google.com
+    url: https://plus.google.com/u/0/101792685551305081385/posts
+  - title: reddit-square
+    url: https://www.reddit.com/user/masterspy16/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -100,7 +100,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
