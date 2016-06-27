@@ -4,9 +4,10 @@ title: "FYIC 2016 Conference at Ryerson University  "
 date: 2016-02-07 12:34:56
 author: Steven
 categories:
-- blog
+- Engineering Society
 - Conference
 - Lighting Talk
+- Professional Development
 img: FYIC_group.jpg
 thumb: FYIC_thumb.jpg
 ---
