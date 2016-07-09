@@ -1,17 +1,18 @@
 ---
 layout: post          
-title: "ProtoHack Vancouver 2016"
+title: "How I cheated the Aptitude test"
 date: 2016-06-11 12:34:56
 author: Steven
 categories:
 - blog
-- Competition             
-- Hackathon
-- Teamwork
-- Coding
+- Quality Assurance             
+- Co-op
+- Cheat
+- Photoshop
+- Outside the Box
 - Problem Solving
-img: protohack_collage.jpg       
-thumb: protohack_thumb.jpg    
+img: QAtest.jpg       
+thumb: QA_thumb.jpg    
 ---
 Click to see more!
 <!--more-->

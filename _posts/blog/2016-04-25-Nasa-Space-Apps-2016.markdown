@@ -6,8 +6,7 @@ author: Steven
 categories:
 - blog
 - Nasa             
-- Hackathon
-- Sonic Boom
+- Hackathon     
 - Teamwork
 - Coding
 - Problem Solving
