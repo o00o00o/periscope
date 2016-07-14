@@ -5,7 +5,7 @@ title: Steven Luo
 description: "Take a look through the periscope into Steven (Si Wei) Luo's life. Can you feel the passion? Do you see what I see?"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/periscope" #important: start with /
-url: "http://o00o00o.github.io"
+url: "http://www.swluo.me"
 
 # Build settings
 markdown: kramdown
