@@ -1,18 +1,16 @@
 ---
 layout: project
-title:  "Rubik's Cube Competition Timer "
+title:  "Rubik's Cube Competition Timer"
 date:   2016-01-01 12:34:56
 author: Steven Luo
 categories:
 - project
-img: portfolio_10.jpg
+img: /cube/cube_1.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- /cube/cube_1.jpg
+- /cube/cube_2.jpg
 tagged: C++, Chrono, Random
-client:
 website: https://github.com/o00o00o/3x3
 ---
 ####YOUR PROJECT NAME

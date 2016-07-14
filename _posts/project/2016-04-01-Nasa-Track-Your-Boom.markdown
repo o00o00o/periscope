@@ -1,18 +1,15 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Nasa Track Your Boom"
+date:   2016-04-01 16:54:46
+author: Steven Luo
 categories:
 - project
-img: portfolio_01.jpg
+img: /nasa/nasa_spaceapps.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-tagged: Flat, UI, Development
-client: Wonder Corp.
-website: http://blacktie.co
+- /nasa/low_boom.jpg
+tagged: Hackathon, Android, Java, Google Maps Api
+website: https://2016.spaceappschallenge.org/challenges/aero/low-boom/projects/track-your-boom-2
 ---
 ####YOUR PROJECT NAME
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
