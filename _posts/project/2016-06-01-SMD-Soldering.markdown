@@ -1,17 +1,15 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "SMD Soldering"
+date:   2016-06-01 12:34:56
+author: Steven
 categories:
 - project
-img: portfolio_03.jpg
+img: /SMD/smd_icon.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-tagged: Flat, UI, Development
+- /SMD/smd1.jpg
+tagged: Soldering, Schematics, Leds, 555 Timer
 client: Wonder Corp.
 website: http://blacktie.co
 ---
