@@ -6,7 +6,6 @@ author: Steven Luo
 categories:
 - project
 img: /protohack/squeeze_icon.jpg
-thumb: thumb02.jpg
 carousel:
 - /protohack/squeeze.gif
 tagged: Hackathon, Prototype, Business Development

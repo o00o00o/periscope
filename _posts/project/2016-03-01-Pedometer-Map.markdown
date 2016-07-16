@@ -6,7 +6,6 @@ author: Steven Luo
 categories:
 - project
 img: /pedomap/pedomap_icon.jpg
-thumb: thumb02.jpg
 carousel:
 - /pedomap/pedomap1.jpg
 - /pedomap/pedomap2.jpg

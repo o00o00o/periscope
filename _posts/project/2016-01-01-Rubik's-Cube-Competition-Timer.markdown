@@ -5,8 +5,7 @@ date:   2016-01-01 12:34:56
 author: Steven Luo
 categories:
 - project
-img: /cube/cube_1.jpg
-thumb: thumb02.jpg
+img: /cube/cube_icon.jpg
 carousel:
 - /cube/cube_1.jpg
 - /cube/cube_2.jpg

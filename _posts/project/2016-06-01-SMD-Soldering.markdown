@@ -6,7 +6,6 @@ author: Steven
 categories:
 - project
 img: /SMD/smd_icon.jpg
-thumb: thumb02.jpg
 carousel:
 - /SMD/smd1.jpg
 tagged: Soldering, Schematics, Leds, 555 Timer
