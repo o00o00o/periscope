@@ -13,6 +13,6 @@ categories:
 img: protohack_collage.jpg       
 thumb: protohack_thumb.jpg    
 ---
-Click to see more!
+This was the dream team. Having always competed against each other in highschool this was the first time that Chris (UBC Engineering), Jessica (Western), and I have been on the same team. 
 <!--more-->
 Well sir, you've just been played...
