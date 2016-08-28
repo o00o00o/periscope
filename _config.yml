@@ -1,5 +1,7 @@
 ### GENERAL SETTINGS ###
 
+#bundle exec jekyll serve
+
 # Site settings
 title: Steven Luo
 description: "Take a look through the periscope into Steven (Si Wei) Luo's life. Can you feel the passion? Do you see what I see?"
