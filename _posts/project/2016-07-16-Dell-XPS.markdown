@@ -11,8 +11,12 @@ carousel:
 tagged: Ubuntu, Bash, Dell, Scripting
 website: https://github.com/o00o00o/xps
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+This is a collection of extremely useful bash scripts for the Dell XPS 13 running Ubuntu 15.04 + 16.04. There are a few known issues and these scripts make life a lot easier.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+1. backlight.sh automatically turns off the backlight on the Dell XPS. By default the backlight is on at full brightness on start up. It is recommended to run this script on start up by adding it to rc.local
+
+2. bluetooth.sh blocks the bluetooth device driver using rfkill. Again recommending running at startup as bluetooth is on by default
+
+3. wifi.sh resets the wifi connection by reseting the wifi drivers. In my experience with the XPS there are issues with connecting to public wifi locations or connection cutting out. This is extremely convenient and helpful.
+
+4. audio.sh kills the pulseaudio (restart automatically) and also resets the Advanced Linux Sound Architecture (ASLA). I have experiences where my headphones would not be detected at all and this script really helps.
