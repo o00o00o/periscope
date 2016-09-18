@@ -10,10 +10,16 @@ carousel:
 - /SMD/smd1.jpg
 tagged: Soldering, Schematics, Leds, 555 Timer
 client: Wonder Corp.
-website: http://blacktie.co
+website: https://hackspace.ca/wp/
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+**Learning**
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+The most important thing I learned is to be careful of IC orientation. My 555 timer was soldered orientated in the wrong direction. I was lucky that the chip did not fry when I powered it on. To fix my problem I used a heat gun to de-solder the whole chip at the same time then solder wick to clean up the mess. They always say prevention is the best cure.
+
+**Description**
+
+This project is a SMD solder board that I completed at Vancouver Hacker Space (VHS). VHS is an amazing place giving you space and the tools necessary for any project to be successful. Everyone is extremely friendly and excited to hear about each other’s project. Everyone has their own niche and it makes the community stronger as a whole.
+
+This board uses a 555 timer to light up LEDs in a blinking pattern. We went over the circuit diagram before the build and it was pretty straight forward 2-layer PCB. SMD soldering by hand is definitely a lot harder than though hole. John, a long time member taught me some techniques using tweezers which made my work much cleaner and faster.
+
+There are other ways of doing SMD at home such as baking, maybe I will try that next time. I feel like SMD is worth the effort for a final prototype before production as it does look extremely clean. I hope to work with more SMD prototyping or PCB production in the future.
