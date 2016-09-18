@@ -18,7 +18,7 @@ The most important thing I learned while working on this project is to look at t
 
 **Description:**
 
-Please refer to the in-depth [blog](http://www.swluo.me/blog/competition/hackathon/teamwork/coding/problem%20solving/ProtoHack-Vancouver-2016) about the business plan behind the web app itself. This web app is the heart of the campaign which fulfills two goals. One is to provide accurate information as well as answer frequently asked question regarding “self checks.” Second is our attempt to make our social media campaign “fellow squeezer." Our campaign with “fellow squeezers” is unique in that it shows the geographical location of its members. It is different from the hundreds of Facebook “likes” which is unrelatable. The idea is to show the bigger picture of the movement and to get more people on board.
+Please refer to the in-depth [blog](http://www.swluo.me/blog/competition/hackathon/teamwork/coding/problem%20solving/ProtoHack-Vancouver-2016) about the business plan behind the web app itself. This web app is the heart of the campaign which fulfills two goals. One is to provide accurate information as well as answer frequently asked question regarding “self checks.” Second is our attempt to make our social media campaign “fellow squeezer." Our campaign with “fellow squeezers” is unique in that it shows the geographical location of its members. It is different from the hundreds of Facebook “likes” which is unrelatable. The idea is to show the bigger picture of the movement and to get more people on board. We finished second place with this project.
 
 **Feature list:**
 
