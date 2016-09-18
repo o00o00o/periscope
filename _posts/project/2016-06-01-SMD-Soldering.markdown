@@ -12,11 +12,11 @@ tagged: Soldering, Schematics, Leds, 555 Timer
 client: Wonder Corp.
 website: https://hackspace.ca/wp/
 ---
-**Learning**
+**Learning:**
 
 The most important thing I learned is to be careful of IC orientation. My 555 timer was soldered orientated in the wrong direction. I was lucky that the chip did not fry when I powered it on. To fix my problem I used a heat gun to de-solder the whole chip at the same time then solder wick to clean up the mess. They always say prevention is the best cure.
 
-**Description**
+**Description:**
 
 This project is a SMD solder board that I completed at Vancouver Hacker Space (VHS). VHS is an amazing place giving you space and the tools necessary for any project to be successful. Everyone is extremely friendly and excited to hear about each other’s project. Everyone has their own niche and it makes the community stronger as a whole.
 
