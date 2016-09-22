@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Hack the North"
-date:   2016-07-16 12:34:56
+date:   2016-09-16 12:34:56
 author: Steven Luo
 categories:
 - project
