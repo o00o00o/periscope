@@ -12,8 +12,11 @@ carousel:
 tagged: C++, Chrono, Random
 website: https://github.com/o00o00o/3x3
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+* Competition style timer with microsecond accuracy, using Chrono library
+* Generated uniformly random scramble using Mersenne Twister generator
+* Modular console program written using object-oriented design patterns in C++ with linked listed data structure
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+I've asked for a code review of this project on stackexhange and got some amazing feedback. I will be learning from my mistakes for my next project and fix some one the ones here. Love the community! Link to the code review: http://codereview.stackexchange.com/questions/116425/rubiks-cube-timer-scrambler
+
+Please download and use it for your personal pleasures and hope you beat that PR, i know i'm working hard to beat mine
