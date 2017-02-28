@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Rubik's Cube Competition Timer"
+title:  "Package Creation with Snapcraft"
 date:   2017-02-23 12:34:56
 author: Steven Luo
 categories:
