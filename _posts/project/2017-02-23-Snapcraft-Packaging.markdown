@@ -9,7 +9,7 @@ img: /snap/snap_icon.jpg
 carousel:
 - /snap/snapcraft2.jpg
 tagged: C++, Snapcraft, Make
-website: https://github.com/o00o00o/snapcraft
+website: https://github.com/stluo/snapcraft
 ---
 Snapcraft is a set of tools that allows developers to craft packages for multiple Linux distributions. These packages (.snap) are completely self contained with built in security policies such as confinement protocols.
 <!--more-->

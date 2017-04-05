@@ -11,7 +11,7 @@ carousel:
 - /isolation/screen1.png
 - /isolation/screen3.png
 tagged: C++, SDL, Makefile
-website: https://github.com/o00o00o/isolation
+website: https://github.com/stluo/isolation
 ---
 **Currently going through the process of packaging this application for open source Debian distribution**
 

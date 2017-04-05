@@ -10,7 +10,7 @@ carousel:
 - /pedomap/pedomap1.jpg
 - /pedomap/pedomap2.jpg
 tagged: Android, Java, Accelerometer, Low Bypass Filter
-website: https://github.com/o00o00o/Pedometer-Map
+website: https://github.com/stluo/Pedometer-Map
 ---
 **Learn:**
 

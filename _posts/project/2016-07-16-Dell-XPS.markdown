@@ -9,7 +9,7 @@ img: /xps/ubuntu.jpg
 carousel:
 
 tagged: Ubuntu, Bash, Dell, Scripting
-website: https://github.com/o00o00o/xps
+website: https://github.com/stluo/xps
 ---
 This is a collection of extremely useful bash scripts for the Dell XPS 13 running Ubuntu 15.04 + 16.04. There are a few known issues and these scripts make life a lot easier.
 

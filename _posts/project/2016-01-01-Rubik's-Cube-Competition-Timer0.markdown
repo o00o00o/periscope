@@ -10,7 +10,7 @@ carousel:
 - /cube/cube_1.jpg
 - /cube/cube_2.jpg
 tagged: C++, Chrono, Random
-website: https://github.com/o00o00o/3x3
+website: https://github.com/stluo/3x3
 ---
 * Competition style timer with microsecond accuracy, using Chrono library
 * Generated uniformly random scramble using Mersenne Twister generator

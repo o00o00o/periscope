@@ -9,7 +9,7 @@ img: /hackthenorth/hackthenorthedit.png
 carousel:
 - /hackthenorth/opendata.gif
 tagged: SQL, Bash, C++, Open Data
-website: https://github.com/o00o00o/hackthenorth2016
+website: https://github.com/stluo/hackthenorth2016
 ---
 **From [Devpost](http://devpost.com/software/hackthenorth2016) Submissions**
 

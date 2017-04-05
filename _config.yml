@@ -31,7 +31,7 @@ social:
   - title: linkedin-square
     url: https://www.linkedin.com/in/swluo
   - title: github-square
-    url: https://github.com/o00o00o
+    url: https://github.com/stluo
   - title: facebook-square
     url: https://www.facebook.com/steven.luo.39
   - title: instagram
@@ -43,5 +43,5 @@ social:
 address:
   - lines:
     - Vanvouer || Waterloo
-email: swluo@uwaterloo.ca
+email: swluo@edu.uwaterloo.ca
 tel: 519-729-8764

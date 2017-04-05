@@ -9,7 +9,7 @@ img: /minecraft/minecraft.jpg
 carousel:
 - /minecraft/minecraft.png
 tagged: Minecraft, Digital Logic, VHDL
-website: https://github.com/o00o00o/redstone
+website: https://github.com/stluo/redstone
 ---
 **Learn:**
 
